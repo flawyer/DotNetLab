@@ -42,24 +42,26 @@ class Program
         }
         return true; // No divisors found, it's prime
     }
-
+    public static string CheckEvenOrOdd(int number)
+    {
+        return number % 2 == 0 ? "Even" : "Odd";
+    }
     static void Main()
     {
+        //1.Print Hello World
+        Console.WriteLine("HelloWorld");
+        //2.Swap Two Numbers
+        var a = 2;
+        var b = a;
+        Console.WriteLine("Swapped b:" + b);
+        //3.Largest Code
+        LargestReturn();
+        //4.Even or Odd
         Console.Write("Enter a number: ");
-        int number = int.Parse(Console.ReadLine());
+        int numbersa = Convert.ToInt32(Console.ReadLine());
 
-        Console.WriteLine($"The factorial of {number} is: {Factorial(number)}");
-
-        //largestreturn();
-        //console.readkey();
-        //console.write("enter a year: ");
-        //int year = int.parse(console.readline());
-
-        //if (isleapyear(year))
-        //    console.writeline($"{year} is a leap year.");
-        //else
-        //    console.writeline($"{year} is not a leap year.");
-
+        Console.WriteLine($"The number {numbersa} is {CheckEvenOrOdd(numbersa)}.");
+        //5 &7 sum of n integer numbers
         Console.Write("Enter the number of elements: ");
         int n = int.Parse(Console.ReadLine());
 
@@ -70,9 +72,29 @@ class Program
             Console.Write($"Enter number {i + 1}: ");
             numbers[i] = int.Parse(Console.ReadLine());
         }
-
         int sum = numbers.Sum();
         Console.WriteLine("Sum: " + sum);
+        //6.Leap Year
+
+        Console.Write("enter a year: ");
+        int year = int.Parse(Console.ReadLine());
+
+        if (IsLeapYear(year))
+            Console.WriteLine($"{year} is a leap year.");
+        else
+            Console.WriteLine($"{year} is not a leap year.");
+       
+
+
+        //8.Factorial Code
+        Console.Write("Enter a number: ");
+        int number = int.Parse(Console.ReadLine());
+
+        Console.WriteLine($"The factorial of {number} is: {Factorial(number)}");
+
+       
+       
+      //9.Prime COde
         Console.Write("Enter a number: ");
         int numberp = int.Parse(Console.ReadLine());
 
