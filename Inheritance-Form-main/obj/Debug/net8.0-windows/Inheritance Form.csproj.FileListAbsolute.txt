@@ -1,0 +1,21 @@
+C:\Users\DELL\Downloads\Inheritance-Form-main\Inheritance-Form-main\bin\Debug\net8.0-windows\Inheritance Form.exe
+C:\Users\DELL\Downloads\Inheritance-Form-main\Inheritance-Form-main\bin\Debug\net8.0-windows\Inheritance Form.deps.json
+C:\Users\DELL\Downloads\Inheritance-Form-main\Inheritance-Form-main\bin\Debug\net8.0-windows\Inheritance Form.runtimeconfig.json
+C:\Users\DELL\Downloads\Inheritance-Form-main\Inheritance-Form-main\bin\Debug\net8.0-windows\Inheritance Form.dll
+C:\Users\DELL\Downloads\Inheritance-Form-main\Inheritance-Form-main\bin\Debug\net8.0-windows\Inheritance Form.pdb
+C:\Users\DELL\Downloads\Inheritance-Form-main\Inheritance-Form-main\obj\Debug\net8.0-windows\Inheritance_Form.Calculator.resources
+C:\Users\DELL\Downloads\Inheritance-Form-main\Inheritance-Form-main\obj\Debug\net8.0-windows\Inheritance_Form.Form1.resources
+C:\Users\DELL\Downloads\Inheritance-Form-main\Inheritance-Form-main\obj\Debug\net8.0-windows\Inheritance_Form.Login.resources
+C:\Users\DELL\Downloads\Inheritance-Form-main\Inheritance-Form-main\obj\Debug\net8.0-windows\Inheritance_Form.Reg.resources
+C:\Users\DELL\Downloads\Inheritance-Form-main\Inheritance-Form-main\obj\Debug\net8.0-windows\Inheritance_Form.Register.resources
+C:\Users\DELL\Downloads\Inheritance-Form-main\Inheritance-Form-main\obj\Debug\net8.0-windows\Inheritance_Form.WelcomeForm.resources
+C:\Users\DELL\Downloads\Inheritance-Form-main\Inheritance-Form-main\obj\Debug\net8.0-windows\Inheritance Form.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Inheritance-Form-main\Inheritance-Form-main\obj\Debug\net8.0-windows\Inheritance Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Inheritance-Form-main\Inheritance-Form-main\obj\Debug\net8.0-windows\Inheritance Form.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Inheritance-Form-main\Inheritance-Form-main\obj\Debug\net8.0-windows\Inheritance Form.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Inheritance-Form-main\Inheritance-Form-main\obj\Debug\net8.0-windows\Inheritance Form.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Inheritance-Form-main\Inheritance-Form-main\obj\Debug\net8.0-windows\Inheritance Form.dll
+C:\Users\DELL\Downloads\Inheritance-Form-main\Inheritance-Form-main\obj\Debug\net8.0-windows\refint\Inheritance Form.dll
+C:\Users\DELL\Downloads\Inheritance-Form-main\Inheritance-Form-main\obj\Debug\net8.0-windows\Inheritance Form.pdb
+C:\Users\DELL\Downloads\Inheritance-Form-main\Inheritance-Form-main\obj\Debug\net8.0-windows\Inheritance Form.genruntimeconfig.cache
+C:\Users\DELL\Downloads\Inheritance-Form-main\Inheritance-Form-main\obj\Debug\net8.0-windows\ref\Inheritance Form.dll
